@@ -27,9 +27,17 @@ cd evaluacion-java
 ```
 
 ### 2️⃣ Compilar y ejecutar
+
+```bash
+./gradlew clean build
+```
+
 ```bash
 ./gradlew bootRun
 ```
+
+
+
 La aplicación se ejecutará en:
 ```
 http://localhost:8080
