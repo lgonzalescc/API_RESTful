@@ -22,8 +22,8 @@ API REST desarrollada con **Spring Boot 3.5.7**, **Java 17** y **H2 Database**, 
 
 ### 1️⃣ Clonar el repositorio
 ```bash
-git clone https://github.com/usuario/evaluacion-java.git
-cd evaluacion-java
+git clone https://github.com/lgonzalescc/API_RESTful.git
+cd evaluacion
 ```
 
 ### 2️⃣ Compilar y ejecutar
